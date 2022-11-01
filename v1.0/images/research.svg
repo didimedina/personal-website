@@ -1,0 +1,63 @@
+<svg width="120" height="120" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>research</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1259 -821)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1259 821L 1379 821L 1379 941L 1259 941L 1259 821Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="research" clip-path="url(#clip-0)">
+<g id="base" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(1279 841)" fill="#FFFFFF"/>
+</g>
+<g id="Polygon">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(1301 866)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(1301 866)" fill="#E0516B" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Polygon">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(1319 866)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(1319 866)" fill="#E0516B" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Polygon">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(1301 882)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(1301 882)" fill="#E0516B" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path3_fill" transform="translate(1321 882)" fill="#E0516B" fill-opacity="0.3"/>
+<mask id="mask3_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(1321 882)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(1321 882)" fill="#E0516B"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1265" y="831" width="108" height="108" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 40 0C 10 -3.20039e-05 0 9.99994 0 40C -3.20039e-05 70 9.99994 79.9999 40 79.9999C 70 80 80 70 80 39.9999C 80 9.99994 70.0001 0 40 0Z"/>
+<path id="path1_fill" d="M 9 0L 16.7942 13.5L 1.20577 13.5L 9 0Z"/>
+<path id="path2_stroke_2x" d="M 9 0L 10.7321 -1L 9 -4L 7.26795 -1L 9 0ZM 16.7942 13.5L 16.7942 15.5L 20.2583 15.5L 18.5263 12.5L 16.7942 13.5ZM 1.20577 13.5L -0.526279 12.5L -2.25833 15.5L 1.20577 15.5L 1.20577 13.5ZM 7.26795 1L 15.0622 14.5L 18.5263 12.5L 10.7321 -1L 7.26795 1ZM 16.7942 11.5L 1.20577 11.5L 1.20577 15.5L 16.7942 15.5L 16.7942 11.5ZM 2.93782 14.5L 10.7321 1L 7.26795 -1L -0.526279 12.5L 2.93782 14.5Z"/>
+<path id="path3_fill" d="M 14 7C 14 10.866 10.866 14 7 14C 3.13401 14 0 10.866 0 7C 0 3.13401 3.13401 0 7 0C 10.866 0 14 3.13401 14 7Z"/>
+<path id="path4_stroke_2x" d="M 12 7C 12 9.76142 9.76142 12 7 12L 7 16C 11.9706 16 16 11.9706 16 7L 12 7ZM 7 12C 4.23858 12 2 9.76142 2 7L -2 7C -2 11.9706 2.02944 16 7 16L 7 12ZM 2 7C 2 4.23858 4.23858 2 7 2L 7 -2C 2.02944 -2 -2 2.02944 -2 7L 2 7ZM 7 2C 9.76142 2 12 4.23858 12 7L 16 7C 16 2.02944 11.9706 -2 7 -2L 7 2Z"/>
+</defs>
+</svg>

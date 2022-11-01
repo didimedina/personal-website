@@ -1,0 +1,76 @@
+<svg width="120" height="120" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>prototype</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1259 -821)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1259 821L 1379 821L 1379 941L 1259 941L 1259 821Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="prototype" clip-path="url(#clip-0)">
+<g id="base" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(1279 842)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(1304 867)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(1304 867)" fill="#7A49E3" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Polygon">
+<use xlink:href="#path3_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)" fill="#FFFFFF"/>
+<mask id="mask1_outline_out">
+<rect id="mask1_outline_inv" fill="white" x="-3" y="-4" width="24" height="20" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)"/>
+<use xlink:href="#path3_fill" fill="black" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)"/>
+</mask>
+<g mask="url(#mask1_outline_out)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Polygon">
+<use xlink:href="#path3_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)" fill="#7A49E3" fill-opacity="0.3"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(6.12323e-17 -1 1 6.12323e-17 1301 891)" fill="#7A49E3"/>
+</g>
+</g>
+<g id="Polygon">
+<use xlink:href="#path3_fill" transform="matrix(0 1 -1 0 1337 873)" fill="#FFFFFF"/>
+<mask id="mask3_outline_out">
+<rect id="mask3_outline_inv" fill="white" x="-3" y="-4" width="24" height="20" transform="matrix(0 1 -1 0 1337 873)"/>
+<use xlink:href="#path3_fill" fill="black" transform="matrix(0 1 -1 0 1337 873)"/>
+</mask>
+<g mask="url(#mask3_outline_out)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(0 1 -1 0 1337 873)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Polygon">
+<use xlink:href="#path3_fill" transform="matrix(0 1 -1 0 1337 873)" fill="#7A49E3" fill-opacity="0.3"/>
+<mask id="mask4_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="matrix(0 1 -1 0 1337 873)"/>
+</mask>
+<g mask="url(#mask4_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(0 1 -1 0 1337 873)" fill="#7A49E3"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1265" y="832" width="108" height="108" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 40 0C 10 -3.20039e-05 0 9.99994 0 40C -3.20039e-05 70 9.99994 79.9999 40 79.9999C 70 80 80 70 80 39.9999C 80 9.99994 70.0001 0 40 0Z"/>
+<path id="path1_fill" d="M 0 0L 30 0L 30 30L 0 30L 0 0Z"/>
+<path id="path2_stroke_2x" d="M 0 0L 0 -2L -2 -2L -2 0L 0 0ZM 30 0L 32 0L 32 -2L 30 -2L 30 0ZM 30 30L 30 32L 32 32L 32 30L 30 30ZM 0 30L -2 30L -2 32L 0 32L 0 30ZM 0 2L 30 2L 30 -2L 0 -2L 0 2ZM 28 0L 28 30L 32 30L 32 0L 28 0ZM 30 28L 0 28L 0 32L 30 32L 30 28ZM 2 30L 2 0L -2 0L -2 30L 2 30Z"/>
+<path id="path3_fill" d="M 9 0L 16.7942 13.5L 1.20577 13.5L 9 0Z"/>
+<path id="path4_stroke_2x" d="M 9 0L 10.7321 -1L 9 -4L 7.26795 -1L 9 0ZM 16.7942 13.5L 16.7942 15.5L 20.2583 15.5L 18.5263 12.5L 16.7942 13.5ZM 1.20577 13.5L -0.526279 12.5L -2.25833 15.5L 1.20577 15.5L 1.20577 13.5ZM 7.26795 1L 15.0622 14.5L 18.5263 12.5L 10.7321 -1L 7.26795 1ZM 16.7942 11.5L 1.20577 11.5L 1.20577 15.5L 16.7942 15.5L 16.7942 11.5ZM 2.93782 14.5L 10.7321 1L 7.26795 -1L -0.526279 12.5L 2.93782 14.5Z"/>
+</defs>
+</svg>

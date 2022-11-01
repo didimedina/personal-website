@@ -1,0 +1,57 @@
+<svg width="120" height="120" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>design</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1259 -821)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1259 821L 1379 821L 1379 941L 1259 941L 1259 821Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="design" clip-path="url(#clip-0)">
+<g id="base" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(1279 842)" fill="#FFFFFF"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path1_fill" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1313 883)" fill="#14C7BC" fill-opacity="0.3"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1313 883)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1313 883)" fill="#14C7BC"/>
+</g>
+</g>
+<g id="Ellipse">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(1321 867)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(1321 867)" fill="#14C7BC" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Rectangle">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path5_fill" fill="white" transform="translate(1302 870)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path6_stroke_2x" transform="translate(1302 870)" fill="#14C7BC" fill-opacity="0.3"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1265" y="832" width="108" height="108" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 40 0C 10 -3.20039e-05 0 9.99994 0 40C -3.20039e-05 70 9.99994 79.9999 40 79.9999C 70 80 80 70 80 39.9999C 80 9.99994 70.0001 0 40 0Z"/>
+<path id="path1_fill" d="M 10 0L 18.6603 15L 1.33975 15L 10 0Z"/>
+<path id="path2_stroke_2x" d="M 10 0L 11.7321 -1L 10 -4L 8.26795 -1L 10 0ZM 18.6603 15L 18.6603 17L 22.1244 17L 20.3923 14L 18.6603 15ZM 1.33975 15L -0.392305 14L -2.12436 17L 1.33975 17L 1.33975 15ZM 8.26795 1L 16.9282 16L 20.3923 14L 11.7321 -1L 8.26795 1ZM 18.6603 13L 1.33975 13L 1.33975 17L 18.6603 17L 18.6603 13ZM 3.0718 16L 11.7321 1L 8.26795 -1L -0.392305 14L 3.0718 16Z"/>
+<path id="path3_fill" d="M 16 8C 16 12.4183 12.4183 16 8 16C 3.58172 16 0 12.4183 0 8C 0 3.58172 3.58172 0 8 0C 12.4183 0 16 3.58172 16 8Z"/>
+<path id="path4_stroke_2x" d="M 14 8C 14 11.3137 11.3137 14 8 14L 8 18C 13.5228 18 18 13.5228 18 8L 14 8ZM 8 14C 4.68629 14 2 11.3137 2 8L -2 8C -2 13.5228 2.47715 18 8 18L 8 14ZM 2 8C 2 4.68629 4.68629 2 8 2L 8 -2C 2.47715 -2 -2 2.47715 -2 8L 2 8ZM 8 2C 11.3137 2 14 4.68629 14 8L 18 8C 18 2.47715 13.5228 -2 8 -2L 8 2Z"/>
+<path id="path5_fill" d="M 0 0L 16 0L 16 16L 0 16L 0 0Z"/>
+<path id="path6_stroke_2x" d="M 0 0L 0 -2L -2 -2L -2 0L 0 0ZM 16 0L 18 0L 18 -2L 16 -2L 16 0ZM 16 16L 16 18L 18 18L 18 16L 16 16ZM 0 16L -2 16L -2 18L 0 18L 0 16ZM 0 2L 16 2L 16 -2L 0 -2L 0 2ZM 14 0L 14 16L 18 16L 18 0L 14 0ZM 16 14L 0 14L 0 18L 16 18L 16 14ZM 2 16L 2 0L -2 0L -2 16L 2 16Z"/>
+</defs>
+</svg>

@@ -1,0 +1,67 @@
+<svg width="120" height="120" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>test</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1259 -821)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1259 821L 1379 821L 1379 941L 1259 941L 1259 821Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="test" clip-path="url(#clip-0)">
+<g id="base" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(1279 842)" fill="#FFFFFF"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path1_fill" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)" fill="#FFFFFF"/>
+<mask id="mask0_outline_out">
+<rect id="mask0_outline_inv" fill="white" x="-2" y="-4" width="34" height="29" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)"/>
+<use xlink:href="#path1_fill" fill="black" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)"/>
+</mask>
+<g mask="url(#mask0_outline_out)">
+<use xlink:href="#path2_stroke_2x" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Polygon">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="matrix(1 2.67189e-24 -2.67189e-24 1 1304 873)" fill="#2F80ED" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path3_fill" transform="translate(1309 868)" fill="#FFFFFF"/>
+<mask id="mask2_outline_out">
+<rect id="mask2_outline_inv" fill="white" x="-2" y="-2" width="24" height="24" transform="translate(1309 868)"/>
+<use xlink:href="#path3_fill" fill="black" transform="translate(1309 868)"/>
+</mask>
+<g mask="url(#mask2_outline_out)">
+<use xlink:href="#path4_stroke_2x" transform="translate(1309 868)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path3_fill" transform="translate(1309 868)" fill="#2F80ED" fill-opacity="0.3"/>
+<mask id="mask3_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(1309 868)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(1309 868)" fill="#2F80ED"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1265" y="832" width="108" height="108" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 40 0C 10 -3.20039e-05 0 9.99994 0 40C -3.20039e-05 70 9.99994 79.9999 40 79.9999C 70 80 80 70 80 39.9999C 80 9.99994 70.0001 0 40 0Z"/>
+<path id="path1_fill" d="M 15 0L 27.9904 22.5L 2.00962 22.5L 15 0Z"/>
+<path id="path2_stroke_2x" d="M 15 0L 16.732 -1L 15 -4L 13.2679 -1L 15 0ZM 27.9904 22.5L 27.9904 24.5L 31.4545 24.5L 29.7224 21.5L 27.9904 22.5ZM 2.00962 22.5L 0.277568 21.5L -1.45448 24.5L 2.00962 24.5L 2.00962 22.5ZM 13.2679 1L 26.2583 23.5L 29.7224 21.5L 16.732 -1L 13.2679 1ZM 27.9904 20.5L 2.00962 20.5L 2.00962 24.5L 27.9904 24.5L 27.9904 20.5ZM 3.74167 23.5L 16.732 1L 13.2679 -1L 0.277568 21.5L 3.74167 23.5Z"/>
+<path id="path3_fill" d="M 20 10C 20 15.5228 15.5228 20 10 20C 4.47715 20 0 15.5228 0 10C 0 4.47715 4.47715 0 10 0C 15.5228 0 20 4.47715 20 10Z"/>
+<path id="path4_stroke_2x" d="M 18 10C 18 14.4183 14.4183 18 10 18L 10 22C 16.6274 22 22 16.6274 22 10L 18 10ZM 10 18C 5.58172 18 2 14.4183 2 10L -2 10C -2 16.6274 3.37258 22 10 22L 10 18ZM 2 10C 2 5.58172 5.58172 2 10 2L 10 -2C 3.37258 -2 -2 3.37258 -2 10L 2 10ZM 10 2C 14.4183 2 18 5.58172 18 10L 22 10C 22 3.37258 16.6274 -2 10 -2L 10 2Z"/>
+</defs>
+</svg>

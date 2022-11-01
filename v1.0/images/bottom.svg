@@ -1,0 +1,43 @@
+<svg width="620" height="620" viewBox="0 0 620 620" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>bottom</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1329 -2950)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1329 2950L 1949 2950L 1949 3570L 1329 3570L 1329 2950Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="bottom" clip-path="url(#clip-0)">
+<g id="Rectangle 3.1">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="matrix(0.965926 -0.258819 0.258819 0.965926 1847 3391.18)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="matrix(0.965926 -0.258819 0.258819 0.965926 1847 3391.18)" fill="#E0516B" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Ellipse">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="translate(1408 3369)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(1408 3369)" fill="#58BF75" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Polygon">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="matrix(0.866025 -0.5 0.5 0.866025 1601.76 3029.76)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="matrix(0.866025 -0.5 0.5 0.866025 1601.76 3029.76)" fill="#2F80ED" fill-opacity="0.3"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 20 0L 20 20L 0 20L 0 0Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -2L -2 -2L -2 0L 0 0ZM 20 0L 22 0L 22 -2L 20 -2L 20 0ZM 20 20L 20 22L 22 22L 22 20L 20 20ZM 0 20L -2 20L -2 22L 0 22L 0 20ZM 0 2L 20 2L 20 -2L 0 -2L 0 2ZM 18 0L 18 20L 22 20L 22 0L 18 0ZM 20 18L 0 18L 0 22L 20 22L 20 18ZM 2 20L 2 0L -2 0L -2 20L 2 20Z"/>
+<path id="path2_fill" d="M 16 8C 16 12.4183 12.4183 16 8 16C 3.58172 16 0 12.4183 0 8C 0 3.58172 3.58172 0 8 0C 12.4183 0 16 3.58172 16 8Z"/>
+<path id="path3_stroke_2x" d="M 14 8C 14 11.3137 11.3137 14 8 14L 8 18C 13.5228 18 18 13.5228 18 8L 14 8ZM 8 14C 4.68629 14 2 11.3137 2 8L -2 8C -2 13.5228 2.47715 18 8 18L 8 14ZM 2 8C 2 4.68629 4.68629 2 8 2L 8 -2C 2.47715 -2 -2 2.47715 -2 8L 2 8ZM 8 2C 11.3137 2 14 4.68629 14 8L 18 8C 18 2.47715 13.5228 -2 8 -2L 8 2Z"/>
+<path id="path4_fill" d="M 15 0L 27.9904 22.5L 2.00962 22.5L 15 0Z"/>
+<path id="path5_stroke_2x" d="M 15 0L 16.732 -1L 15 -4L 13.2679 -1L 15 0ZM 27.9904 22.5L 27.9904 24.5L 31.4545 24.5L 29.7224 21.5L 27.9904 22.5ZM 2.00962 22.5L 0.277568 21.5L -1.45448 24.5L 2.00962 24.5L 2.00962 22.5ZM 13.2679 1L 26.2583 23.5L 29.7224 21.5L 16.732 -1L 13.2679 1ZM 27.9904 20.5L 2.00962 20.5L 2.00962 24.5L 27.9904 24.5L 27.9904 20.5ZM 3.74167 23.5L 16.732 1L 13.2679 -1L 0.277568 21.5L 3.74167 23.5Z"/>
+</defs>
+</svg>
