@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Larken";
+    src: url('../assets/fonts/Larken.woff2');
+  }
+  @font-face {
+    font-family: "TT Hoves";
+    src: url('../assets/fonts/TT-Hoves-Pro.woff2');
+  }
+}

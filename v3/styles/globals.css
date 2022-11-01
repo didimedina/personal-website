@@ -1,0 +1,51 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+      --slate1: rgb(251, 252, 253);
+      --slate2: rgb(248, 249, 250);
+      --slate3: rgb(241, 243, 245);
+      --slate4: rgb(236, 238, 240);
+      --slate5: rgb(230, 232, 235);
+      --slate6: rgb(223, 227, 230);
+      --slate7: rgb(215, 219, 223);
+      --slate8: rgb(193, 200, 205);
+      --slate9: rgb(136, 144, 150);
+      --slate10: rgb(126, 134, 140);
+      --slate11: rgb(104, 112, 118);
+      --slate12: rgb(17, 24, 28);
+  }
+  .dark {
+    --slate1: rgb(21, 23, 24);
+    --slate2: rgb(26, 29, 30);
+    --slate3: rgb(32, 36, 37);
+    --slate4: rgb(38, 41, 43);
+    --slate5: rgb(43, 47, 49);
+    --slate6: rgb(49, 53, 56);
+    --slate7: rgb(58, 63, 66);
+    --slate8: rgb(76, 81, 85);
+    --slate9: rgb(105, 113, 119);
+    --slate10: rgb(120, 127, 133);
+    --slate11: rgb(155, 161, 166);
+    --slate12: rgb(236, 237, 238);
+  }
+} */
