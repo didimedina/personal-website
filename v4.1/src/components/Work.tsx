@@ -30,8 +30,8 @@ function Polaroid(props: PolaroidProps){
     if (props.rotation == "right") { rotation = "rotate-3" }
 
     return (
-        <div class={`bg-white w-4/10 aspect-[7/8] p-2 ring-2 ring-gray-300 ${rotation}`}>
-            <img src={props.imgURL} class="w-full aspect-square"/>
+        <div class={`bg-white w-[40%] aspect-[7/8] p-2 ring-2 ring-gray-300 ${rotation}`}>
+            <img src={props.imgURL} class="w-full object-cover aspect-square"/>
         </div>
     )
 }
@@ -55,11 +55,11 @@ export default function Work(){
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-10 my-4 md:my-8 lg:my-10 xl:my-12 [&_#p2p]:self-center">
                     <Card title="Consulting" description="Helping aspiring teams operationalize craftpersonship into their product design and development practices." ctaTitle="Get in touch" ctaURL="#"/>
                     <Card title="Styled" description="Building a CSS-in-JS library designed from the ground up to empower design system maintainers." ctaTitle="Get involved" ctaURL="#"/>
-                    <Card id="p2p" title="Peer to Pier" description="Hosting inspiring people for home cooked meals to avoid needing to create a podcast." ctaTitle="Get invited" ctaURL="#"/>
+                    <Card id="p2p" title="Peer to Pier" description="Hosting inspiring people for home cooked meals to avoid needing to create a podcast. (and yes, I live by the water, doink!)" ctaTitle="Get invited" ctaURL="#"/>
                     <div class="flex justify-center max-w-xs md:max-w-full [&_div:not(:first-child)]:-ml-12">
-                        <Polaroid rotation="left" imgURL="/images/hero.webp"/>
-                        <Polaroid imgURL="/images/hero.webp"/>
-                        <Polaroid rotation="right" imgURL="/images/hero.webp"/>
+                        <Polaroid rotation="right" imgURL="/images/3.webp"/>
+                        <Polaroid rotation="left" imgURL="/images/2.webp"/>
+                        <Polaroid rotation="right" imgURL="/images/4.webp"/>
                     </div>
                     <div class="md:col-span-2">
                         <p class="text-gray-500">

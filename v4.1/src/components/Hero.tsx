@@ -4,8 +4,8 @@ export default function Hero(props){
     return (
         <>
             <Section overflow>
-                <div class="h-[70vh] bg-gray-100 mt-4 sm:mt-6 lg:mt-8 pl-[20%]">
-                    <img src={'/images/hero.webp'} class="mx-auto h-full"/>
+                <div class="h-[70vh] bg-gray-100 mt-4 sm:mt-6 lg:mt-8">
+                    <img src={'/images/hero.webp'} class="w-full md:pr-[10%] h-full object-contain object-right-bottom"/>
                 </div>
             </Section>
             <Section>

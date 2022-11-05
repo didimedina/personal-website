@@ -1,12 +1,6 @@
 import { DiscordIcon, EmailIcon, TwitterIcon } from "./Icons";
 import Section from "./_primitives/Section";
 
-/* 
-    - icon = svgURL
-    - title = service (email, twitter etc...)
-    - description = @didimedina
-*/
-
 type ContactCTAProps = {
     icon?: any,
     title?: string,
