@@ -9,7 +9,7 @@ export default function Hero(props){
                 </div>
             </Section>
             <Section>
-                <p class="max-w-xl font-medium text-3xl md:text-6xl leading-tight md:leading-snug mt-6 md:mt-8 lg:mt-10 xl:mt-12">Hey I'm Didi, I build crafted software.</p>
+                <p class="max-w-2xl font-medium text-3xl md:text-6xl leading-tight md:leading-snug mt-6 md:mt-8 lg:mt-10 xl:mt-12">Hey, I'm Didi. I build crafted software.</p>
             </Section>
         </>
 
