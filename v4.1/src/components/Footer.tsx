@@ -1,4 +1,4 @@
-import { DiscordIcon, EmailIcon, TwitterIcon } from "./Icons";
+import { DiscordIcon, EmailIcon, TwitterIcon, WinkIcon } from "./Icons";
 import Section from "./_primitives/Section";
 
 type ContactCTAProps = {
@@ -15,7 +15,7 @@ function Arrow() {
 
 function ContactCTA(props: ContactCTAProps) {
     return (
-        <a href={props.url} class="group">
+        <a href={props.url} target="_blank" class="group">
             <div class="grid grid-cols-[44px_auto] gap-2 h-fit items-center ">
                 {props.children}
                 <div id="copyWrapper" class="flex flex-col gap-2">
@@ -36,13 +36,13 @@ export default function Footer(){
     return (
         <Section>
             <div class="border-t-[1px] border-gray-200 w-full pt-8 pb-12">
-                <div class="flex flex-wrap gap-8 justify-between">
+                <div class="flex flex-wrap gap-8 justify-between h-fit">
                     <div class="flex flex-wrap gap-8 w-fit">
-                        <ContactCTA url="#" title="Email" description="hi@didimedina.com"><EmailIcon/></ContactCTA>
-                        <ContactCTA url="#" title="Discord" description="didimedina#0384"><DiscordIcon/></ContactCTA>
-                        <ContactCTA url="#" title="Twitter" description="@thatguydidi"><TwitterIcon/></ContactCTA>
+                        <ContactCTA url="mailto:hi@didimedina.com" title="Email" description="hi@didimedina.com"><EmailIcon/></ContactCTA>
+                        <ContactCTA url="https://discordapp.com/users/1038072236537561139" title="Discord" description="didimedina#0384"><DiscordIcon/></ContactCTA>
+                        <ContactCTA url="https://twitter.com/thatguydidi" title="Twitter" description="@thatguydidi"><TwitterIcon/></ContactCTA>
                     </div>
-                    <ContactCTA/>
+                    <WinkIcon/>
                 </div>
             </div>
         </Section>
