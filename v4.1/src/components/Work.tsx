@@ -63,8 +63,8 @@ export default function Work(){
             <Section>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-10 my-4 md:my-8 lg:my-10 xl:my-12 [&_#p2p]:self-center">
                     <Card title="Consulting" description="Helping aspiring teams operationalize craftpersonship into their product design and development practices." ctaTitle="Get in touch" ctaURL="https://form.typeform.com/to/DuZNUzyp"/>
-                    <Card title="Styled" description="Building a CSS-in-JS library designed from the ground up to empower design system maintainers." ctaTitle="Get involved" ctaURL="#"/>
-                    <Card id="p2p" title="Peer to Pier" description="Hosting inspiring people for home cooked meals to avoid needing to create a podcast. (and yes, I live by the water, doink!)" ctaTitle="Get invited" ctaURL="https://form.typeform.com/to/uqFNAaF1"/>
+                    <Card title="Styled" description="Building a CSS-in-JS library designed from the ground up to empower design system maintainers." ctaTitle="Get involved" ctaURL="mailto:hi@didimedina.com"/>
+                    <Card id="p2p" title="The Dinner" description="Hosting inspiring people for home cooked meals to avoid needing to create a podcast." ctaTitle="Get invited" ctaURL="https://form.typeform.com/to/uqFNAaF1"/>
                     <div class="flex justify-center max-w-xs md:max-w-full [&_div:not(:first-child)]:-ml-12">
                         <Polaroid rotation="right" imgURL="/images/3.webp"/>
                         <Polaroid rotation="left" imgURL="/images/2.webp"/>
