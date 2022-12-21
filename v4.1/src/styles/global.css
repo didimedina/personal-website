@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { 
+    font-family: 'Inter', sans-serif;
+    font-feature-settings: "ss01", "calt", "case", "ordn", "cv08", "cv10", "cv11";
+ }
+
+@supports (font-variation-settings: normal) {
+    :root { 
+        font-family: 'Inter var', sans-serif; 
+        font-feature-settings: "ss01", "calt", "case", "ordn", "cv08", "cv10", "cv11";
+    }
+}
