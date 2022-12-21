@@ -1,4 +1,4 @@
-import Section from "./_primitives/Section";
+import Section from "./Section";
 
 export default function Hero(props){
     return (

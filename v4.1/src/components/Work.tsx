@@ -1,4 +1,4 @@
-import Section from "./_primitives/Section";
+import Section from "./Section";
 
 type CardProps = {
     title: string,

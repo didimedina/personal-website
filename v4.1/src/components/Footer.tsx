@@ -1,5 +1,5 @@
 import { DiscordIcon, EmailIcon, TwitterIcon, WinkIcon } from "./Icons";
-import Section from "./_primitives/Section";
+import Section from "./Section";
 
 type ContactCTAProps = {
     icon?: any,
