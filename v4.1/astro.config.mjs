@@ -13,8 +13,11 @@ import vercel from "@astrojs/vercel/serverless";
 import image from "@astrojs/image";
 
 // https://astro.build/config
+import netlify from "@astrojs/netlify/functions";
+
+// https://astro.build/config
 export default defineConfig({
   integrations: [solidJs(), tailwind(), image()],
   output: "server",
-  adapter: vercel()
+  adapter: netlify()
 });

@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@astrojs/image": "^0.11.0",
+    "@astrojs/netlify": "^1.3.0",
     "@astrojs/solid-js": "^1.2.2",
     "@astrojs/tailwind": "^2.1.1",
     "@astrojs/vercel": "^2.3.3",
